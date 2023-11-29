@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Park",
+  "age": 28,
+  "address": {
+    "street": "Geptih Loop",
+    "city": "Paudhep",
+    "state": "CT",
+    "zip": "58922"
+  },
+  "contact": {
+    "phone": "(219) 571-9694",
+    "servicePhone": "800526141"
+  },
+  "birthday": "2004-10-08T15:20:20.992Z",
+  "ip": "27.71.227.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Du egaogaku fumu dinuv kof nupin motasfa ikenicpud pulan mukur cavout gezafo la bu wehuvra ci. Ru ovelecow vunospo ohwope bipo wuglavwol zuf pul cudtita ij rirzulda romtuam lejzawkav. Wu dov zakwi lumku noapin wawvojcuw ni gila ganumi naloszu uzvo ro itbupab kodu. Afo bunetus se judaga me pugew nagip ip ojtut ta uhotak be he duhitfi ikaeg zase. Widwubub lu digvi wotadu mol zoupu he zurtuh muhtuez neva ehumaf vefluv.",
+    "bio": "Dojwew kezak ere febew suruj oracona cojib amejoev azhudgi suso pu siov kuru aco siwda nu. Uri uwo omoicite do bem nu igbiawi jobmi zoavo ne aju ovazozol butiiso ci. Os keaw fehfoimo tu mip no il furugu fasjozo midnepu touzi wocjohod gid lo powivehi ju. Ago efbeake mauwsu ces ohes fi cedsewus anijon mew mutmu dadavlab huhlaf hun. Nawujen imu foda asivepeg corfo pozomwer al zi diokuza wole kud udevi vuozopun vistew abeminiv go umu couwohu. Unojube ceg umome jici te tibwema fat kesag kuz lishef hik kivovsir iji uglazah ravbus oziwud je reaminu."
+  },
+  "apiKey": "2e46af1425a80d806a0d3f776b5cb879fcbee743ad86285b031238e2af216a5b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
