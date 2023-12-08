@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Hawkins",
+  "age": 20,
+  "address": {
+    "street": "Rattow Boulevard",
+    "city": "Satzuitu",
+    "state": "WI",
+    "zip": "89888"
+  },
+  "contact": {
+    "phone": "(388) 809-6253",
+    "servicePhone": "800756788"
+  },
+  "birthday": "2004-03-03T23:20:37.915Z",
+  "ip": "101.210.78.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuluw jofmidpe imo pohajbin ugabe lu no umorge zok vo solaj sajovoz ocawasur. Onwitdal solmabu avzilcu ivenocso fih car cozedi zobojvo moic detsede vo ehwacmo tir kevum. Zelkafbuz roec hibo ikivacre tiwumom em nazo arce wanob izpi fuf omobelve nik ul borir zi liwferep bul.",
+    "bio": "Me hu lihbefjef pew tinoteoc washalu tabmod hiwip rikennu piptewhuj zijazip gulsaseg cinu zakdul ca rat vunec. Mavmot kul ku kazdo vu taso kup bi nehlujwa ubuvuemi lavesek ri imfenad fenioge kapoza jo nud. Lilijuk salej gasomo tempadera nutweka emesep kuwo jugneol tiknu noame se sani zuror jek liz bisvomiw otgigeh zozuvpo."
+  },
+  "apiKey": "026fb6558bc7b633c066ffbbd0680a4017385756e59988b4c85a322dc185305e",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
