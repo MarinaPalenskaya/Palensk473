@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Richards",
+  "age": 26,
+  "address": {
+    "street": "Oguwu Grove",
+    "city": "Tofarpec",
+    "state": "MO",
+    "zip": "10884"
+  },
+  "contact": {
+    "phone": "(788) 288-6571",
+    "servicePhone": "800556159"
+  },
+  "birthday": "1990-01-19T09:56:44.871Z",
+  "ip": "172.66.144.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Fibdekeso kid me go vo zonzigoc ahmuaci as asmi ulanem apenifjab cuj wepde nunsir. Zorkip mofbebtel jepriwede idsulsuw giefaosi limwis nusor cula jag bomhadnuc jujmuhca nel maz ifulah kuowtu. Wu tezaibe awufirih za biaj muma vohjo tucfazin zickauma bocjenem vekivjah fip pu zejosel.",
+    "bio": "Ifwepad dup lu cappusob utbepac kojimvi lafizjub fu olgipi johat sa ife zucogji li wu. Jowez batobdec icvoje ruusle dulati ij zeg zim fawon tuhaan hu ulomeg udjod. Bufi canijaace te viidiku wi gusot gutpi ah tobtu up dusu hiboteg no jurpuref lari."
+  },
+  "apiKey": "ed15296d0a3cffaca06e312d85ce2939ac5425bceceb3029ad9c9088c513ccab",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
