@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Blair",
+  "age": 22,
+  "address": {
+    "street": "Nuke Highway",
+    "city": "Sokjecer",
+    "state": "DE",
+    "zip": "75935"
+  },
+  "contact": {
+    "phone": "(353) 332-4160",
+    "servicePhone": "800467269"
+  },
+  "birthday": "1961-03-04T12:01:56.794Z",
+  "ip": "3.181.198.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ur umme malesce tusba mat dovboavu meifipi ebsu jeed sap vece pahun jobfu opjak iluh jik. Tetode caddewif ilalemjir orru we zar sobew hujgoot so bodago pugha vajigak. Peufe wefujsa ju ume seah guvdezog liv korig za lodiksin ejobop ifu wezre etfovo ofozuehi. Moiw hocohse ow peb dub poti tiz pubabmu fi ada awukatig magulo ocsil.",
+    "bio": "Notulo uju somilkan tapwed pud pouc amelinog lurgidcak memijti tedalze zeepa pogta wutcukza. Uva sigop veeg ce rupade hucji jodulih pigihput budbagep ukorupo givtocen zagnemeve pagatjir rojluren. Nam fak vuanpa od jadizalec ri dulenaz velot bifujwo opmoevo tujcugvi ha gecaevu sifumi rondac rogce jicev lig. Jic la ezhielu iziij goomdew lugmof kuzgu heki zone sevi opre zaw or."
+  },
+  "apiKey": "8da51d7866546ec1350007507718d813877a0a9f5849be905784e692b258ed56",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
