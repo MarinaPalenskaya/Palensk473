@@ -1,0 +1,26 @@
+{
+  "name": "Sue Diaz",
+  "age": 52,
+  "address": {
+    "street": "Lefem Place",
+    "city": "Punidedu",
+    "state": "NC",
+    "zip": "86455"
+  },
+  "contact": {
+    "phone": "(206) 351-2810",
+    "servicePhone": "800154688"
+  },
+  "birthday": "1959-10-03T02:06:35.852Z",
+  "ip": "63.157.206.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Firak mo ig la zi vizipe joviv capnahci lotovceg zeginuc zohid ku koeb tulmeg cirsacuf veekesut. Lawop ohbitca te ociheh tofatker siv je cojedwow gij ofkapli cala muhu iwu legbili ovi ma webunuoh. Ra capgu tagwon suvugi ehesu sohso ge ki jozducec duwwe pupape wutu.",
+    "bio": "Is cojaj litgomot wujes lorbubofi guvuv zu cic derfat pesviuji toma cotlowze min ecubozba. Jaltikif ho ahvilres gitziz pa sapcejdi so ziopzek fip fiko ji oma usa uf. Enbihhe joto zuoti muonusi oboh negwen waga pezrar sahkiji potone ruer lim izisi lajinavi okegeg zic abbohje. Tifdib mi ipu zizes egures tululwo tod woj zesefiru rer uwefif keseciz go nutel."
+  },
+  "apiKey": "0110316fd1065bbb5670c5ed435eefeb48ab2e53c6b453682156ecf2c8122e72",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
