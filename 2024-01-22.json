@@ -1,0 +1,26 @@
+{
+  "name": "Dora Gordon",
+  "age": 29,
+  "address": {
+    "street": "Joida Lane",
+    "city": "Mujguobu",
+    "state": "CT",
+    "zip": "21061"
+  },
+  "contact": {
+    "phone": "(354) 414-3390",
+    "servicePhone": "800789719"
+  },
+  "birthday": "1970-01-06T11:13:25.451Z",
+  "ip": "1.144.45.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo mirozwu ehrovciz pet fejifup vos to li japif cazizsec jufuvag mozotmam gubiv gi fu. Zah ap afku da zec teafo feftunro vis su ranzanvom cu lade jasu raprigka ritvejmir doh. Fitvu ufeer cehda lunhofjuf ha ni tiruh hudbabki wobzavot hur rafmi hi ha vo.",
+    "bio": "Ma coac paphu caog bim bopof eleze jiveci ziso mulgahnu po li ofa awafan sipseggi. Fabagin vukzip meg arav zagzok bakbejejo rad hemhoju majos uglen zof fudi. Vahled muz nemib mih nilbo ew gujof vu kiv buwva latvot gocih iho ligmizev oduvo tabes. Dapkukag anohujak jefhuz ibaru nahsam dan re ahruheha piof zatiboate jutupzo aniehe biwtepse. Eniedo ge gen ojne wozmawa jop gum fo puoge daawe bioda ajirig."
+  },
+  "apiKey": "c5ac236992244f26089bc18a67f47c3ca6c5abe71d03bda4bb9f21977b69cb3b",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
