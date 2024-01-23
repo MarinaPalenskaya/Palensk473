@@ -1,0 +1,26 @@
+{
+  "name": "Floyd King",
+  "age": 51,
+  "address": {
+    "street": "Cihok Park",
+    "city": "Wonupla",
+    "state": "TX",
+    "zip": "79531"
+  },
+  "contact": {
+    "phone": "(701) 543-8402",
+    "servicePhone": "800698338"
+  },
+  "birthday": "1975-02-13T03:27:39.269Z",
+  "ip": "130.42.235.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Hemiv fumle kep irbij wofisaf gicu zannin ovu zomweeg cimdijad wimo boh tir zelro edveg jehvec kuikdo. Egeefepol ci sufinufe cig uz ewegone pu moc nus fi bu worjiasu negut fi jiepibe butus. Cej narzet eri ol vi idoci ram ce borjah kirfi fuw opbikiga. Imu un zu posajem ram nurba gu covneva kuz toer cauju munasiwip fuc ge wu kuero ka pive.",
+    "bio": "Civpew duf tivgu pipawute va ronwoh ruzdan ricnuv hiwpoh owtilluj jen zoneg zu norhuni pa guceh. Mimuv vidiapu epovon gum iswinom baf galperic nenizearo det cerce na ot bomumuzu. Uneumkeh hiw ja bo tucuz zecja hujkaan upegoeli hodow hurgobu fepih hapathit okodaz benmip cawzo zu hir bucicu."
+  },
+  "apiKey": "94d590dcfe1a87ad59540c2cfd0f729f0acc73ab2ef17dd55ea1cb8ea667ec68",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
