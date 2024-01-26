@@ -1,0 +1,26 @@
+{
+  "name": "Francis Robinson",
+  "age": 45,
+  "address": {
+    "street": "Suuj View",
+    "city": "Saonalu",
+    "state": "CA",
+    "zip": "09999"
+  },
+  "contact": {
+    "phone": "(262) 248-9925",
+    "servicePhone": "800256154"
+  },
+  "birthday": "1975-01-29T06:44:05.391Z",
+  "ip": "152.185.98.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Codac tag umo daboro ba tivvo naarna hilo ja fel bozo ascu. Liko zodu isela joohe mu nafvecec vol katujbaz rugujer govtowgeg fidwor icumi izaod. Va fiv datbezda som efidad ji su powwihec febeza timocpuc raohalol recpeg zubrap giragewo acuze.",
+    "bio": "Ze ne ruj gagzaw kel ajbumwog irla wab osado ano wa onabo natev kuphobuk mudi guhubmi vevgoz usosoz. Gijiw duhtup gazezo sovfub pagapozu imiafo gelehaf omgujo kozaz hu mebzaf zasji hamvo la tevuhuji uz lur. Gez ejhufnu sepla zaw gus iwtec fazcub uc jemwap umorfo ipenewas osse. Awrese fekagoce his ovuwove pu upitvez zehuwo lavzazbac duka suler ov bu hefip ajaci."
+  },
+  "apiKey": "7039924b35ae6b49eff5ffc48c1214d6b4828f97348f63e7e8cca86bc78c2ceb",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
