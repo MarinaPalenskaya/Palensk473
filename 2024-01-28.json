@@ -1,0 +1,26 @@
+{
+  "name": "Grace Owens",
+  "age": 32,
+  "address": {
+    "street": "Jarud Street",
+    "city": "Bisotom",
+    "state": "AR",
+    "zip": "36671"
+  },
+  "contact": {
+    "phone": "(224) 932-8250",
+    "servicePhone": "800331353"
+  },
+  "birthday": "1990-04-14T20:50:09.764Z",
+  "ip": "119.158.54.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Goz banebom evi eramo vid umo apuki neju bu momejtu gotwil hufgugca ob. Sopidac hodanbog da zugez meb pi darpec dipub cozumu omosca oli pafoto veb las emsev juun sagecehoh cisev. Fepbuf ocooja ubi jodi nevam efiez kir tilulop oko jav vej rak dazad duki.",
+    "bio": "Dat lujbiek awbuzgu ferahap hazmueh hinifios radvesme wilopu cav jetokji etvillo baw uwiur. Jarej cip tired putionu apuzera kivzuvsa zocpeh erivep koneh zoteki hizesasa osoed wodiptet radaul vokuevi ovzu safme udu. Asageelu nol bi jawduc mid tineho fowi buhiawa ojo no jokteag womropeh uk takupe ope cuw oba."
+  },
+  "apiKey": "324515d5c86e889083c3c1f133f5e60ad1a29bab7880b6e68fb55e2776f9b94c",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
