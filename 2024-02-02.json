@@ -1,0 +1,26 @@
+{
+  "name": "Carl Perkins",
+  "age": 22,
+  "address": {
+    "street": "Jebuh Ridge",
+    "city": "Tepcejo",
+    "state": "KY",
+    "zip": "67083"
+  },
+  "contact": {
+    "phone": "(241) 287-3546",
+    "servicePhone": "800929234"
+  },
+  "birthday": "1974-01-04T18:42:31.187Z",
+  "ip": "20.201.80.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Afneba fepoppa mu rijhin novzipfo tezac loasani wi ba dacaj fu orji pifah havupofa mi. Ji azahiw pudaren mo obcauh sinizsis fuglatek ocrinmes rikgod civet ilucu vit. Fedalil ahaozugu bufuh heewamoh ineli zalhu ma rulucej gopafu wehko hachal teg covege mibwuj pec tibigohok. Dowkipjar dimkuzo fid usounadu izbufoc zutizta enzigiw ajunolur duta arjeenu voiri caffigcep cuftam duwum hazko uzaijusa tuzik wezze. Tun oznogoh kema kigsotjof icti ime dupsarpo du pukun zi id ridlirpu mi.",
+    "bio": "Ili liruknec cugahzow gotoel iswen cioneewo ifofipfa pidu betdo her za ofjin zordopovi vuvivuvi. Girufe enumil joctoew orheus aducoh is ic tut sa vacgej ru il cojoncus. Vuz ju awumivuv we volize godedule koghuura zoir on nutiko ut ifpad id mi daguppen tepip."
+  },
+  "apiKey": "ed607e6c1cea97415a2d166490fdd25cf971befc79a189ab9a57c58c5e66c656",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
