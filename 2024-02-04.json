@@ -1,0 +1,26 @@
+{
+  "name": "Craig Fox",
+  "age": 22,
+  "address": {
+    "street": "Loluwi Drive",
+    "city": "Pomruka",
+    "state": "OR",
+    "zip": "54380"
+  },
+  "contact": {
+    "phone": "(421) 721-3784",
+    "servicePhone": "800386612"
+  },
+  "birthday": "1965-03-15T07:39:54.538Z",
+  "ip": "225.140.151.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejrazuj kipaaf ejmauji mod kojbupek jinwe udhieg wacodog dajun tug ezobo kewa jazjifci. Ecogiwi ninakke foj te uso kekici jevvit wijli ur pah sahapzul ja na reru rekbehnu mu tihacwo ho. Jar dimap bazwu uheuw ivic muovzo sob vaata kev hi ek ivnef sodizaci duribas son sovezo.",
+    "bio": "Ri saw oc beficuhu wum kitu ke ti puzmamdaz wedijru piojoto esuhojwe bak maclibbi. Fiv abgakof repata nohedur doece weshi tek wapi dolaw kaowu owuazi dafedkog hi wus. Lici ulfe ridome vacalsaw ok sasaale garroiva worjajim nugip enezufdaf diibpe pokeufu akbu ilukipfe nurdal bimufme zubon."
+  },
+  "apiKey": "ebe64091f70939bf2d75aff0d5559547fac6dbdb7820946261801b15934be0d2",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
