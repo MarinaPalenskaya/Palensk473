@@ -1,0 +1,26 @@
+{
+  "name": "Brian Burgess",
+  "age": 40,
+  "address": {
+    "street": "Ogsaw Street",
+    "city": "Gaamduv",
+    "state": "TX",
+    "zip": "77979"
+  },
+  "contact": {
+    "phone": "(736) 219-5245",
+    "servicePhone": "800392758"
+  },
+  "birthday": "2000-10-23T06:57:59.064Z",
+  "ip": "191.79.77.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Waej mihtucu le rivritin nupka cuface najilof us jil zunesjiv dora goabnu tuh if awesezu upawoznus kipwa biluzi. Cow ta bum sekuw oddi lufgodpi niulapav hu mibelvev gak ov miruw. Kuf totsa nis fi osu am ehe fezo sadso pavmaz sojazneb ni usejef kijfiib rovgi sehit.",
+    "bio": "Pi de iddobi ane wip pir himi orfutu wuslup en bomum gobdiope. Otuji ne tumvu wo fegibwe iv lehgesosu urocig rawin fen tulede vodpenum osvo hefiza faijiene. Zoced zesez ri tudmu weisoanu ahfe nuker kifnaveji zoza onnezvo soetkej imjuv."
+  },
+  "apiKey": "b650d0c7e241087234ccb2e7156c09b81197070be7ed0fdf16d95aedaadbd806",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
