@@ -1,0 +1,26 @@
+{
+  "name": "Richard Manning",
+  "age": 34,
+  "address": {
+    "street": "Gacre Loop",
+    "city": "Binvebma",
+    "state": "WI",
+    "zip": "83358"
+  },
+  "contact": {
+    "phone": "(972) 849-7750",
+    "servicePhone": "800323966"
+  },
+  "birthday": "2002-05-27T06:46:20.658Z",
+  "ip": "139.203.232.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuffa leh agopah nasa hibo kogvikos ce onuhauso tadunob ag odsohti ek cibo javhuib sija. Dajezil gimogi movicon pegiuh la tuetope weedo fonuv harwewu mighevad ziliga di izipof denosfiz huszib. Zojcirre go hi edizohsa mu kiawulu aguul diwrefe juev rofies sacduw feuho.",
+    "bio": "Fom raet afuwezera puivi jivecguv lelud iwehepip ta nasi hawtab fafu legba rarigaw hi egefo. Rusza puna ve ide taw olilez dosho mantucza vodano vov arro va dare wewe hezsoha pek. Ef oc lub alojizu he urovam lipep vacbun farcef ad jej fa mevi vi. Iwocadab lew pabfokged iju ci pikisi cepzeb decgulwe niz kopih loecloz rijveur bet madarmu fag zuwukhid. Wuor zotet kuv gavokaga sehsud wama lupoge noho ladaje dikovwog dap zuf."
+  },
+  "apiKey": "5e328fb15caca2ef48b4d71c5e15a4c38834a40944283e6184f78a939b210986",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
