@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Strickland",
+  "age": 59,
+  "address": {
+    "street": "Ahaza Plaza",
+    "city": "Omjutke",
+    "state": "MI",
+    "zip": "08526"
+  },
+  "contact": {
+    "phone": "(412) 888-6668",
+    "servicePhone": "800992536"
+  },
+  "birthday": "1981-07-29T08:02:12.257Z",
+  "ip": "122.145.121.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Rocdoh labij nic ciros kuoppiv lot ezi duzlaruj za sucazesup ipa kozuz obujmu enfec nevuc ettisus ecmob jeba. Keku ek alisizu hen ecfaol ig dudan zami neriog hece kuw ru da comu bilevu mihget sa wahuhgan. Ke ikakapmi gir aj uksulsi sadodog moivu agazojbi egja veg hizekuza sunjo pun jolu.",
+    "bio": "Hi eha cenzudu ri kuhmozge fibal bamdoccu cahimtu bicgid pet gugiip pofi fe wuruwac. Seres kemmaj ceom et jucebten cazve nopkiv det nom waagibo jatpezdiv cohduuno. Vuv ero suve ibe ralud ahsup vapala ifzatuc paimu hat cuidjiv dorzumi heh zes. Dovomzev bad nupuot kana vi wa iwwog asufuk ato gubta zircor lulauj hazi meal udeuckuk."
+  },
+  "apiKey": "c2dc28cb4f3daea996565e699c2b55f86cc129dd4cff8f007d256e0ffb7f73d8",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
