@@ -1,0 +1,26 @@
+{
+  "name": "Travis Kelly",
+  "age": 55,
+  "address": {
+    "street": "Mido Street",
+    "city": "Belcufhag",
+    "state": "RI",
+    "zip": "35104"
+  },
+  "contact": {
+    "phone": "(265) 761-9542",
+    "servicePhone": "800416252"
+  },
+  "birthday": "1964-08-02T16:24:03.919Z",
+  "ip": "188.228.110.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufiale ne aja vel ekisinwe kimaje sedler ki umati giwge kowezuv manwopcas malduc hete gi kunru jumta cogo. Pu deg ko toitik fah lazovo abifez rugri damdujji lo curohe ridocow fu pel odjegku. Gow ni atesoim hotmapzik utipupo puvkel debaccu sor ce we sokfagus lovdis.",
+    "bio": "Sihe cu ejlopo ug tectutbet su peh natwapa faj idahuod zu ru ditundu ewlerew ru wado vi. Zatir uwpogru kap zir bowke masefnoz am hul canik perorbom wiepocoz gam zihhuilo gi. Se wagbow duiknuh irofejju wafwupav lin vuhupew jovon fidsoici li pa wo. Goh je lotipa uh numlohke bolig ulwa zanlisig gebgira gasavcab zaocde demgut meoda."
+  },
+  "apiKey": "425c17d5660d0459ca6727880b3cfc6057159fc41bf0931b4b15779f4d5b2974",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
